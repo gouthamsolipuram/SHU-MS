@@ -1,0 +1,12 @@
+C:\Users\rJ\source\repos\flags\flags\bin\Debug\flags.exe.config
+C:\Users\rJ\source\repos\flags\flags\bin\Debug\flags.exe
+C:\Users\rJ\source\repos\flags\flags\bin\Debug\flags.pdb
+C:\Users\rJ\source\repos\flags\flags\bin\Debug\flags.xml
+C:\Users\rJ\source\repos\flags\flags\obj\Debug\flags.vbproj.AssemblyReference.cache
+C:\Users\rJ\source\repos\flags\flags\obj\Debug\flags.Form1.resources
+C:\Users\rJ\source\repos\flags\flags\obj\Debug\flags.Resources.resources
+C:\Users\rJ\source\repos\flags\flags\obj\Debug\flags.vbproj.GenerateResource.cache
+C:\Users\rJ\source\repos\flags\flags\obj\Debug\flags.vbproj.CoreCompileInputs.cache
+C:\Users\rJ\source\repos\flags\flags\obj\Debug\flags.exe
+C:\Users\rJ\source\repos\flags\flags\obj\Debug\flags.xml
+C:\Users\rJ\source\repos\flags\flags\obj\Debug\flags.pdb

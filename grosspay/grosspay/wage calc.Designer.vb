@@ -74,6 +74,7 @@ Partial Class Form1
         Me.txtHoursWorked.Name = "txtHoursWorked"
         Me.txtHoursWorked.Size = New System.Drawing.Size(100, 20)
         Me.txtHoursWorked.TabIndex = 4
+        Me.txtHoursWorked.Text = "12"
         '
         'txtPayRate
         '
@@ -81,6 +82,7 @@ Partial Class Form1
         Me.txtPayRate.Name = "txtPayRate"
         Me.txtPayRate.Size = New System.Drawing.Size(100, 20)
         Me.txtPayRate.TabIndex = 5
+        Me.txtPayRate.Text = "10"
         '
         'btnClose
         '

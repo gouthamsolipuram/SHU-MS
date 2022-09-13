@@ -10,3 +10,15 @@ C:\Users\rJ\source\repos\grosspay\grosspay\obj\Debug\grosspay.vbproj.CoreCompile
 C:\Users\rJ\source\repos\grosspay\grosspay\obj\Debug\grosspay.exe
 C:\Users\rJ\source\repos\grosspay\grosspay\obj\Debug\grosspay.xml
 C:\Users\rJ\source\repos\grosspay\grosspay\obj\Debug\grosspay.pdb
+C:\Users\rJ\source\repos\SHU-MS\grosspay\grosspay\bin\Debug\grosspay.exe.config
+C:\Users\rJ\source\repos\SHU-MS\grosspay\grosspay\bin\Debug\grosspay.exe
+C:\Users\rJ\source\repos\SHU-MS\grosspay\grosspay\bin\Debug\grosspay.pdb
+C:\Users\rJ\source\repos\SHU-MS\grosspay\grosspay\bin\Debug\grosspay.xml
+C:\Users\rJ\source\repos\SHU-MS\grosspay\grosspay\obj\Debug\grosspay.vbproj.AssemblyReference.cache
+C:\Users\rJ\source\repos\SHU-MS\grosspay\grosspay\obj\Debug\grosspay.Resources.resources
+C:\Users\rJ\source\repos\SHU-MS\grosspay\grosspay\obj\Debug\grosspay.Form1.resources
+C:\Users\rJ\source\repos\SHU-MS\grosspay\grosspay\obj\Debug\grosspay.vbproj.GenerateResource.cache
+C:\Users\rJ\source\repos\SHU-MS\grosspay\grosspay\obj\Debug\grosspay.vbproj.CoreCompileInputs.cache
+C:\Users\rJ\source\repos\SHU-MS\grosspay\grosspay\obj\Debug\grosspay.exe
+C:\Users\rJ\source\repos\SHU-MS\grosspay\grosspay\obj\Debug\grosspay.xml
+C:\Users\rJ\source\repos\SHU-MS\grosspay\grosspay\obj\Debug\grosspay.pdb
